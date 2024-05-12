@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AspNetCoreCA.Domain
+build_property.ProjectDir = E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

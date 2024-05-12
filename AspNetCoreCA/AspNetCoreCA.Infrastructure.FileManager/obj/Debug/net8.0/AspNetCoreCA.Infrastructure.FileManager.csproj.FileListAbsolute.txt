@@ -1,0 +1,17 @@
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\bin\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.deps.json
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\bin\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\bin\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\bin\Debug\net8.0\AspNetCoreCA.Application.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\bin\Debug\net8.0\AspNetCoreCA.Domain.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\bin\Debug\net8.0\AspNetCoreCA.Application.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\bin\Debug\net8.0\AspNetCoreCA.Domain.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.csproj.AssemblyReference.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.AssemblyInfoInputs.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.AssemblyInfo.cs
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.csproj.CoreCompileInputs.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.csproj.CopyComplete
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\refint\AspNetCoreCA.Infrastructure.FileManager.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\AspNetCoreCA.Infrastructure.FileManager.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Infrastructure.FileManager\obj\Debug\net8.0\ref\AspNetCoreCA.Infrastructure.FileManager.dll

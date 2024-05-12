@@ -1,0 +1,10 @@
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\bin\Debug\netstandard2.1\AspNetCoreCA.Domain.deps.json
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\bin\Debug\netstandard2.1\AspNetCoreCA.Domain.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\bin\Debug\netstandard2.1\AspNetCoreCA.Domain.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\obj\Debug\netstandard2.1\AspNetCoreCA.Domain.csproj.AssemblyReference.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\obj\Debug\netstandard2.1\AspNetCoreCA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\obj\Debug\netstandard2.1\AspNetCoreCA.Domain.AssemblyInfoInputs.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\obj\Debug\netstandard2.1\AspNetCoreCA.Domain.AssemblyInfo.cs
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\obj\Debug\netstandard2.1\AspNetCoreCA.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\obj\Debug\netstandard2.1\AspNetCoreCA.Domain.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Domain\obj\Debug\netstandard2.1\AspNetCoreCA.Domain.pdb

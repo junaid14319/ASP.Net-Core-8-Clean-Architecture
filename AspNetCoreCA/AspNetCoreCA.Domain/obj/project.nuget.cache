@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEpNULV/Gkhw7nYFZgmn3kFq1gzEjJifvYrvL1AeqhQK5NT6JDqB8QBFARVgFM56kEggRCpsjFTA/4WcyS1S/A==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\AspNetCoreCA\\AspNetCoreCA\\AspNetCoreCA.Domain\\AspNetCoreCA.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khanj\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\khanj\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\khanj\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\khanj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

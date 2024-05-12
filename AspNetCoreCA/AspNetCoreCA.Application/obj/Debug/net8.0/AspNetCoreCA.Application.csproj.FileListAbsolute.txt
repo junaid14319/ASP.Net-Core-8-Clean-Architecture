@@ -1,0 +1,15 @@
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCoreCA.Application.csproj.AssemblyReference.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCoreCA.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCoreCA.Application.AssemblyInfoInputs.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCoreCA.Application.AssemblyInfo.cs
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCoreCA.Application.csproj.CoreCompileInputs.cache
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\bin\Debug\net8.0\AspNetCoreCA.Application.deps.json
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\bin\Debug\net8.0\AspNetCoreCA.Application.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\bin\Debug\net8.0\AspNetCoreCA.Application.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\bin\Debug\net8.0\AspNetCoreCA.Domain.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\bin\Debug\net8.0\AspNetCoreCA.Domain.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCoreCA.Application.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\refint\AspNetCoreCA.Application.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCoreCA.Application.pdb
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\ref\AspNetCoreCA.Application.dll
+E:\Projects\AspNetCoreCA\AspNetCoreCA\AspNetCoreCA.Application\obj\Debug\net8.0\AspNetCo.49749EA3.Up2Date
