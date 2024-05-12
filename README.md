@@ -25,8 +25,7 @@ By combining these technologies and patterns, the project aims to achieve:
 - **Scalability**: Through the use of CQRS, the system can scale read and write operations independently, optimizing performance.
 - **Security**: JWT authentication ensures secure user authentication and authorization, safeguarding sensitive data and operations.
 
-========================================================Use of project ==========================================================================
-
+======================Use of project================================== 
 **Update Database Server Path:**
 
 Locate the configuration file or environment variables where the database connection information is stored.
